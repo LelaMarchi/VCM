@@ -1,0 +1,63 @@
+body{
+  	  background-color:#D8BFD8;
+  	  text-align: center;
+  	  background: ;
+  	  margin-left: 60px;
+  	  margin-right: 60px;
+}
+#topo{
+	background-color:white;
+	border:10px;
+	border-style: outset; 
+	border-color: purple;
+	font-family: impact;
+	color: #0D64B9; 
+}
+
+
+#corpo{
+	color: #33448C;
+	font-family: century gothic;
+	margin-top: 25px;
+}
+#fim{
+	color: #151515;
+	background-color: #AC58FA;
+	text-decoration: none;
+}
+
+
+.sect{
+	display: flex;
+	justify-content: center;
+}
+.text{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.alert {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.logo {
+	margin-right: 1000px;
+	margin-left: 100px;
+}
+.foto{
+	margin-top:25px;
+}
+
+.centro{
+	 text-align: center;
+	 
+}
+
+.fieldset{
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+}
+
+.jumb{
+	width: 1750px;
+}
